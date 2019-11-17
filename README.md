@@ -1,10 +1,12 @@
 # Comic Hub
+## Env
+node == v12.x
+Notice: The dev env has ONLY been tested on node v12.x
+
 ## Install
 ```
 yarn install
 ```
-Notice: The dev env has ONLY been tested on node v12.x
-
 ## Run
 Notice: iPhone ONLY.  
 Run `yarn start` and wait for javascript bundle to be built.  
