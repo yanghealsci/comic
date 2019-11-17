@@ -1,6 +1,6 @@
 # Comic Hub
 ## Env
-node == v12.x
+node == v12.x  
 Notice: The dev env has ONLY been tested on node v12.x
 
 ## Install
